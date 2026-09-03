@@ -2,6 +2,7 @@
 **vercel link :** https://js-weather-app-6n9w.vercel.app/
 
 **Features:**
+
  -A input box to enter a city name and press **Enter from keyboard** or **Press Search icon**
  
  -If user enter invalid city name, it shows **Invalid city name!!. correct it.**
